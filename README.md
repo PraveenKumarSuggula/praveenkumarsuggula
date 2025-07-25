@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/6824065702/256714386-1a798a04-9fbb-4bc7-a064-c34c542a8ee9.gif" alt="Praveen Kumar Suggula Banner" width="90%" style="border-radius:12px;" />
-</p>
+<h1 align="center">Hi 👋, I'm Praveen Kumar Suggula</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=75&lines=I'm+Praveen+Kumar+Suggula;Full+Stack+.NET+Developer;Azure+Cloud+Engineer;GenAI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=75&lines=I'm+a+Full+Stack+.NET+Developer;Cloud+Engineer;GenAI+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---
